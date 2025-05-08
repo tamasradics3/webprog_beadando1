@@ -1,4 +1,4 @@
-// src/components/Portfolio.jsx
+
 import React, { useState } from "react";
 import Lightbox from "./Lightbox";
 
