@@ -20,9 +20,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Itt történhetne pl. az adatok elküldése valahová (pl. email API-hoz)
-
-    // Mezők kiürítése
+  
     setFormData({
       name: '',
       email: '',
@@ -31,10 +29,10 @@ const Contact = () => {
       message: ''
     });
 
-    // Visszajelzés
+    
     setSubmitted(true);
 
-    // Eltüntetés pár mp múlva
+   
     setTimeout(() => setSubmitted(false), 4000);
   };
 
