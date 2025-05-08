@@ -1,4 +1,4 @@
-/* Alap beállítások */
+
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   padding: 0 2rem;
 }
 
-/* Navigáció */
+
 nav {
   background-color: #fff;
   padding: 1rem 0;
@@ -37,7 +37,7 @@ nav a:hover {
   color: #007acc;
 }
 
-/* Szekciók */
+
 section {
   padding: 3rem 0;
   max-width: 900px;
@@ -51,7 +51,7 @@ section h2 {
   display: inline-block;
 }
 
-/* Portfólió */
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -74,7 +74,7 @@ section h2 {
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
 }
 
-/* Szolgáltatások tábla */
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -97,7 +97,7 @@ th {
   color: #d9534f;
 }
 
-/* Űrlap */
+
 form {
   margin-top: 1rem;
   display: flex;
