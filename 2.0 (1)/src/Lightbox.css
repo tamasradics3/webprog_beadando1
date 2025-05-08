@@ -1,4 +1,4 @@
-/* src/components/Lightbox.css */
+
 .lightbox-overlay {
   position: fixed;
   top: 0;
@@ -36,8 +36,8 @@
   padding: 5px 10px;
 }
 .lightbox-image {
-  border: 5px solid white; /* Fehér, vékony keret */
-  padding: 5px; /* A keret és a kép közötti távolság */
-  background-color: rgba(0, 0, 0, 0.8); /* Ha szükséges, háttér szín */
-  border-radius: 8px; /* Lekerekített sarkok (opcionális) */
+  border: 5px solid white; 
+  padding: 5px; 
+  background-color: rgba(0, 0, 0, 0.8); 
+  border-radius: 8px; 
 }
