@@ -1,4 +1,4 @@
-// src/components/Lightbox.jsx
+
 import React from "react";
 import "./Lightbox.css";
 
